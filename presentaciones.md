@@ -47,4 +47,10 @@ Hola a todos, aqui Alejandro al habla desde Espana. Actualmente trabajo en un ba
 En mi tiempo libre(aunque tengo poco) me gusta estudiar Rust, Terraform, y ademas estudio para sacarme el certificado de Associate Cloud Engineer.
 
 ---
+
+## Luis Reyes
+¡Hola! estoy aprendiendo Git y GitHub. 
+
+---
+
 (Agregá tu nombre aquí con una breve presentación)
